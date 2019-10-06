@@ -352,6 +352,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1128824862351294640, guid: bfcf4cd69cfe3d04fb184cbd27a219f9,
+        type: 3}
+      propertyPath: m_Name
+      value: AppleTree
+      objectReference: {fileID: 0}
     - target: {fileID: 114211172753223184, guid: bfcf4cd69cfe3d04fb184cbd27a219f9,
         type: 3}
       propertyPath: leftAndRightEdge
@@ -361,11 +366,6 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 1128824862351294640, guid: bfcf4cd69cfe3d04fb184cbd27a219f9,
-        type: 3}
-      propertyPath: m_Name
-      value: AppleTree
       objectReference: {fileID: 0}
     - target: {fileID: 7450928786266492223, guid: bfcf4cd69cfe3d04fb184cbd27a219f9,
         type: 3}
@@ -421,6 +421,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 772104818357799795, guid: bfcf4cd69cfe3d04fb184cbd27a219f9,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 772104818357799795, guid: bfcf4cd69cfe3d04fb184cbd27a219f9,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 772104818357799795, guid: bfcf4cd69cfe3d04fb184cbd27a219f9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.19
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bfcf4cd69cfe3d04fb184cbd27a219f9, type: 3}
